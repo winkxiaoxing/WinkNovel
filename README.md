@@ -334,7 +334,7 @@ Star 能帮助更多作者发现 WinkNovel，也是对持续维护的鼓励。
 
 ## 开源协议
 
-[MIT](./LICENSE) © winkxiaoxing
+[MIT](./LICENSE) © winkxiaoxing   
 
 ### 使用声明
 
